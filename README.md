@@ -18,7 +18,7 @@ To deliver an intuitive and aesthetically pleasing interface, we've utilized top
 - Bootstrap
 
 Project Live Location 🌐
-You can access the live version of this project at file:///D:/project/index.html . Try it out and enhance your password security!
+You can access the live version of this project at https://shreeshaildoddannavar.github.io/PASSWORD-STRENTH-CHECKER/l . Try it out and enhance your password security!
 
 Thank You! 👏
 We appreciate you taking the time to explore our Password Strength Checker project. Your online security is our top priority, and we hope this tool helps you keep your accounts safe.
